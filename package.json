@@ -1,0 +1,10 @@
+{
+  "name": "95verified-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for 95verified SMS verification platform",
+  "scripts": {
+    "start": "echo 'No build process for static site'"
+  },
+  "author": "Martins",
+  "license": "ISC"
+}
